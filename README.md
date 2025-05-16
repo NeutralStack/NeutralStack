@@ -1,8 +1,25 @@
-# NeutralStack
+# NeutralStack 
 
-**NeutralStack** is an independent, data-minded project sharing markdown-based content with a focus on clarity, neutrality, and accessibility.
+Welcome to the NeutralStack — your go-to resource for practical, unbiased insights into digital tools, platforms, and trends.
 
-We explore ideas, tools, and systems across a wide range of topics — offering comparisons, reviews, and insights designed to stay useful over time.  
-All content is open-source, written for both people and machines, and intended to contribute to a more transparent, well-informed digital world.
+We write easy-to-understand markdown articles about:
+- 💻 Tools & Productivity Apps
+- 🎮 Games & Game Mechanics
+- 🌐 Platforms like Steam, GitHub, Reddit
+- ⚙️ AI & Automation Workflows
+- 📈 Trends and emerging tech
+- 🧩 How-Tos and setup guides
 
+Everything here is research-based, clutter-free, and neutral — for developers, gamers, freelancers, and curious minds.
+
+## 🔖 Categories
+- `games/`
+- `tools/`
+- `platforms/`
+- `guides/`
+- `trends/`
+- `reviews/`
+
+---
+Follow us to stay updated! 
 Stay neutral. Stay curious.
