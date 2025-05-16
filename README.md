@@ -1,6 +1,6 @@
-# NeutralStack 
+# NeutralStack Blog
 
-Welcome to the NeutralStack — your go-to resource for practical, unbiased insights into digital tools, platforms, and trends.
+Welcome to the NeutralStack Blog — your go-to resource for practical, unbiased insights into digital tools, platforms, and trends.
 
 We write easy-to-understand markdown articles about:
 - 💻 Tools & Productivity Apps
