@@ -1,4 +1,4 @@
-# NeutralStack Blog
+# NeutralStack
 
 Welcome to the NeutralStack Blog — your go-to resource for practical, unbiased insights into digital tools, platforms, and trends.
 
