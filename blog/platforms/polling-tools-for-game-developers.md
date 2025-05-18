@@ -139,4 +139,4 @@ Choose the polling tool that aligns with your game's scale, audience, and feedba
 
 ---
 
-*Written by [NeutralStack](https://github.com/neutralstack) — sharing neutral insights on games, tools, and platforms.*
+*Written by R [NeutralStack](https://github.com/neutralstack) — sharing neutral insights on games, tools, and platforms.*
