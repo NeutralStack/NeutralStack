@@ -82,4 +82,4 @@ Idle RPGs offer an addictive blend of strategy and automation, letting players l
 
 ---
 
-*Written by [NeutralStack](https://github.com/neutralstack) — sharing neutral insights on games, tools, and platforms.*
+*Written by R [NeutralStack](https://github.com/neutralstack) — sharing neutral insights on games, tools, and platforms.*
