@@ -65,4 +65,4 @@ Embedding surveys in web games isn't just about data — it's about player exper
 
 ---
 
-*Written by [NeutralStack](https://github.com/neutralstack) — sharing neutral insights on games, tools, and platforms.*
+*Written by R [NeutralStack](https://github.com/neutralstack) — sharing neutral insights on games, tools, and platforms.*
