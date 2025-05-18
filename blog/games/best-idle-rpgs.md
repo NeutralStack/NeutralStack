@@ -1,4 +1,4 @@
-## 🛡️ Best Idle RPGs to Play in 2025
+# 🛡️ Best Idle RPGs to Play in 2025
 
 Idle RPGs offer an addictive blend of strategy and automation, letting players level up heroes, gather loot, and defeat bosses with minimal micromanagement. Whether you're a casual gamer or a min-maxing strategist, the following games represent the best the genre has to offer in 2025.
 
