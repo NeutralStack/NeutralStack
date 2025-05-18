@@ -65,4 +65,4 @@ As AI tools become more embedded in daily tasks and games, safeguarding your per
 
 ---
 
-*Written by [NeutralStack](https://github.com/neutralstack) — sharing neutral insights on games, tools, and platforms.*
+*Written by R [NeutralStack](https://github.com/neutralstack) — sharing neutral insights on games, tools, and platforms.*
