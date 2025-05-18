@@ -46,4 +46,4 @@ Whether you prefer tapping your way to success or letting your empire grow while
 
 ---
 
-*Written by [NeutralStack](https://github.com/neutralstack) — sharing neutral insights on games, tools, and platforms.*
+*Written by R [NeutralStack](https://github.com/neutralstack) — sharing neutral insights on games, tools, and platforms.*
